@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UsuariosApp</string>
+    <string name="splashmsj">Bienvenido</string>
+    <string name="loginTitulo">Autenticación</string>
+    <string name="loginmsj">Para ingresar a la aplicación ingresa tus datos de usuario:</string>
+    <string name="loginEmail">Email</string>
+    <string name="loginPass">Contraseña</string>
+    <string name="loginboton">Ingresar</string>
+</resources>
